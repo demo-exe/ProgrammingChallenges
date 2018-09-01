@@ -1,0 +1,3 @@
+[submodule "78. Chip-8 Emulator/Chip8-TS"]
+	path = 78. Chip-8 Emulator/Chip8-TS
+	url = https://github.com/demozylak/Chip8-TS

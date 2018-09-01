@@ -84,7 +84,7 @@ I will try to write them in different languages as this may be a great opportuni
 - [ ] 75. IRC Bot
 - [ ] 76. Brainfuck Interpreter
 - [ ] 77. Visualisation of #57
-- [ ] 78. Chip-8 Emulator
+- [x] 78. Chip-8 Emulator
 - [ ] 79. Geekcode Generator (3.12)
 - [ ] 80. Define Translate & Rotate a Polygon
 - [ ] 81. Pong w/Variable Vectors
