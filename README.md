@@ -1,5 +1,5 @@
 # ProgrammingChallenges
-![Completion Score](https://img.shields.io/badge/Completed-1%25-red.svg)
+![Completion Score](https://img.shields.io/badge/Completed-2%25-red.svg)
 
 I have found a list of 'programs every programmer should write in his life'  
 
@@ -8,7 +8,7 @@ I will try to write them in different languages as this may be a great opportuni
 
 ### TODO:
 - [ ] 00. Name Generator
-- [ ] 01. Higher/Lower | Heads/Tails
+- [x] 01. Higher/Lower | Heads/Tails
 - [ ] 02. Temperature Converter
 - [ ] 03. Calculate Age in Seconds
 - [ ] 04. Encrypt/Decrypt Algorithm
