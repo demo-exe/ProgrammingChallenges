@@ -14,7 +14,7 @@ I will try to write them in different languages as this may be a great opportuni
 |02|Temperature Converter||
 |03|Calculate Age in Seconds||
 |04|Encrypt/Decrypt Algorithm||
-|05|FizzBuzz||
+|05|~~FizzBuzz~~|Prolog|
 |06|Rock Paper Scissors||
 |07|Hangman||
 |08|Love Calculator||
