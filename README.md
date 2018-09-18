@@ -1,5 +1,5 @@
 # ProgrammingChallenges
-![Completion Score](https://img.shields.io/badge/Completed-2%25-red.svg)
+![Completion Score](https://img.shields.io/badge/Completed-3%25-red.svg)
 
 I have found a list of 'programs every programmer should write in his life'  
 
